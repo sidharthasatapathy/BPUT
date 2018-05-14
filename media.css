@@ -1,0 +1,30 @@
+@media screen and(max-width:360px){
+    
+}
+@media screen and(max-width:768px){
+    
+    #navigation {
+        height: auto;
+        width: 100%;
+        margin: 0 auto;
+        
+    }
+    #navigation nav {
+        float: none;
+        margin: 0 auto;
+        width: 100%;
+    }
+    #mainav a {
+        display: block;
+        width: 100%;
+        border-bottom: 1px solid black;
+        margin: 0 !important;
+    }
+    
+    #mainav {
+        display: none;
+    }
+}
+@media screen and(max-width:360px){
+    
+}
